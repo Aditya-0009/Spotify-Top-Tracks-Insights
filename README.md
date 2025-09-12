@@ -68,8 +68,8 @@ Data was linked from **Google BigQuery** into Power BI, and necessary transforma
 **Visuals:**  
 - **Track:** Blinding Lights  
 - **Artist:** The Weekend  
-- **Energy% Arc Chart:** 80%  
-- **Danceability% Arc Chart:** 50%  
+- **Energy%:** 80%  
+- **Danceability%:** 50%  
 
 **Insights:**  
 - High energy suggests strong tempo and rhythm, suitable for workout/party playlists.  
