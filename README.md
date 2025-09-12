@@ -1,7 +1,7 @@
 # 🎵 Spotify Top Tracks Insights  
 
-An end-to-end data analysis project exploring **top Spotify tracks from 1930–2023**, focusing on streams, artists, track popularity, and song attributes.  
-The project leverages **Google BigQuery for data sourcing** and **Power BI for interactive dashboards**, delivering insights for music analysts, playlist curators, and marketing teams.  
+An end-to-end data analysis project exploring **Spotify’s top tracks (1930–2023)** with insights on streams, artists, track popularity, and song attributes.  
+The workflow integrates **Google BigQuery for data sourcing** and **Power BI for interactive dashboards**, providing valuable takeaways for **music analysts, playlist curators, and marketing teams**.  
 
 ---
 
