@@ -1,0 +1,44 @@
+analyzing data in power query for any cleaning & transformations needed 
+
+- saw that streams col has some errors , removed those rows as they were less than 1% of the whole data. 
+- found 10% null values in key col, so replaced them with text 'None'. also found 5% null values in in_shazam_charts col , so replaced those numerical values with 0
+- data set has three cols for years,months,date : so combined them in one col date
+- made a data table and connected with main table 
+
+- made a visually impressive background for report according to spotify theme
+- added three cards showing Total streams , tracks , average streams 
+- added a line chart showing the streams by release date. 
+- added a bar chart showing Top Artists ( by total streams )
+- made a section of Most Streamed Track : its cover page , track name, artist name , release date, streams, key, two special arc charts showing energy % , danceability %
+- made a section of Top Streamed Tracks : where top 4 tracks are showing with their cover page track name, artist name
+
+
+
+( The data is from the songs release between 1930-2023, consisting of only top 952 tracks )
+
+CARDS ADDED
+Total Streams : 489bn
+Tracks : 952
+Average Streams : 514M
+
+SLICERS ADDED
+Tracks : select or search by track name
+Artist(s) : select or search by artist name
+Date Released : select between dates 
+( to get the specific data with slicers )
+
+
+Streams by release date : Line Chart : 1930 - 2023 : saw that the no. of streams of songs released from 2000 started spiking up then up and down up and down... then after 2012 it went up .... sometimes down but after 2021 the no. of streams were only high n high
+
+Top Artist(s) : Bar Chart : The Weekend is the top most artist with 14.2bn streams just passing by the taylor swift on 2nd position with 14.1bn streams and third Ed Sheeran with 13.9bn streams and so on..
+
+THEN THE SECTION OF "Most Streamed Track"
+- have cover image of top track Blinding Lights with artist name The Weekend 
+- shows info of Track, then added two customised arc charts showing the energy% = 80% , and danceability% = 50% for the top song 
+
+THEN THE SECTION OF "Top Streamed Tracks"
+- Shows top 4 streamed tracks, with their cover image, track name, artist name 
+Blinding Lights, Dance Monkey, Shape Of You, Someone You Loved 
+
+
+
