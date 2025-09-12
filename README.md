@@ -33,14 +33,6 @@ Data was linked from **Google BigQuery** into Power BI, and necessary transforma
 - Artist(s) → select/search by artist name  
 - Date Released → filter between dates  
 
-**Insights:**  
-- ✅ A few tracks contribute disproportionately to total streams.  
-- ⚠️ Average streams indicate strong skew, highlighting the top performers.  
-
-**Recommendation:**  
-- 🚀 Focus playlist and promotional campaigns on top tracks.  
-- 🔍 Analyze mid-performing tracks for potential growth opportunities.  
-
 ---
 
 ### Streams by Release Date (Line Chart)  
