@@ -15,9 +15,6 @@ Data was linked from **Google BigQuery** into Power BI, and necessary transforma
 - **Date columns:** Combined year, month, and day into a single **date** column.  
 - **Data model:** Created a separate **Date table** and connected it with the main dataset for time-based analysis.  
 
-**Insights from Data Prep:**  
-- ✅ Data is clean and ready for analytics.  
-- ⚠️ Minor null or error rows will not significantly affect trends or aggregations.  
 
 ---
 ## 📊 Dashboards  
@@ -117,7 +114,6 @@ Data was linked from **Google BigQuery** into Power BI, and necessary transforma
 ## 🛠 Tech Stack  
 - **Google BigQuery** → Data source and querying  
 - **Power BI** → Dashboard creation & visualization  
-- **Excel/CSV** → Intermediate data handling  
 
 ---
 
